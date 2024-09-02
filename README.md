@@ -1,1 +1,2 @@
 # FastAsyncWorldEdit-Japanese
+FastAsyncWorldEditの日本語化ファイルです。
